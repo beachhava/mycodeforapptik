@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "fe648ef2ca087c513b857fe3c7b2f0d4",
+    "packages": [
+        {
+            "name": "sohagsrz/fbmediadownloader",
+            "version": "0.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Sohagsrz/facebook-media-downloader.git",
+                "reference": "ceb8369ca6cd918af447e2da34a5de8954cfd5d2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Sohagsrz/facebook-media-downloader/zipball/ceb8369ca6cd918af447e2da34a5de8954cfd5d2",
+                "reference": "ceb8369ca6cd918af447e2da34a5de8954cfd5d2",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "FbMediaDownloader\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sohagsrz",
+                    "email": "mdsohagislam25@gmail.com"
+                }
+            ],
+            "description": "Facebook Video & Reels Downloader",
+            "homepage": "https://github.com/Sohagsrz/facebook-media-downloader",
+            "keywords": [
+                "downloader",
+                "facebook",
+                "reels",
+                "video"
+            ],
+            "support": {
+                "issues": "https://github.com/Sohagsrz/facebook-media-downloader/issues",
+                "source": "https://github.com/Sohagsrz/facebook-media-downloader/tree/0.0.7"
+            },
+            "time": "2024-05-26T02:26:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
